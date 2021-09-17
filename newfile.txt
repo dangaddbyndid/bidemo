@@ -4,4 +4,20 @@ add new line
 Test
 Update again
 Add chilli sauce
+Dadafafafa
 
+<<<<<<< Updated upstream
+in
+=======
+Afa
+Fa
+Ffa
+Fa
+Dasd
+Fa
+Dsafsafsa
+F
+
+Casvasvavs
+
+>>>>>>> Stashed changes
