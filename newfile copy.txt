@@ -1,9 +1,15 @@
+<<<<<<< Updated upstream
+New line added
+
+=======
+>>>>>>> Stashed changes
 adding new code
 Test New File
 add new line
 Test
 Update again
 Add chilli sauce
+<<<<<<< Updated upstream
 Dadafafafa
 
 <<<<<<< Updated upstream
@@ -20,4 +26,8 @@ F
 
 Casvasvavs
 
+>>>>>>> Stashed changes
+=======
+
+Dasdada
 >>>>>>> Stashed changes
