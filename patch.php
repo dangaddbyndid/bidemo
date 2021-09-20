@@ -3,6 +3,6 @@
 $greeting = "Hello!";
 // Assign the value 8 to the variable "month"
 $month = 8;
-// Assign the value 2020 to the variable "year"
-$year = 2020;
+// Assign the value 2019 to the variable "year"
+$year = 2019;
 ?>
